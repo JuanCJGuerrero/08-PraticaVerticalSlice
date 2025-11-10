@@ -592,7 +592,7 @@ Se você terminou a atividade principal e quer mais desafios:
 2. **Clone seu fork**
    ```bash
    git clone <url-do-seu-fork>
-   cd AprendizadoVerticalSlice
+   cd 08-PraticaVerticalSlice
    ```
 
 3. **Crie uma branch para sua implementação**
@@ -615,7 +615,7 @@ Se você terminou a atividade principal e quer mais desafios:
 
 6. **Submeta o link do seu repositório**
    - Envie o link do seu fork no GitHub
-   - Formato: `https://github.com/seu-usuario/AprendizadoVerticalSlice`
+   - Formato: `https://github.com/seu-usuario/08-PraticaVerticalSlice`
    - Certifique-se de que o repositório está público
 
 ### O que será avaliado:
